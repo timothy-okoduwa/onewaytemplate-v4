@@ -7,6 +7,7 @@ import l1 from '../Images/l1.png';
 import l2 from '../Images/l2.jpeg';
 import l3 from '../Images/l3.jpeg';
 import l4 from '../Images/l4.jpeg';
+import ad from '../Images/advert.png';
 // ... other imports
 
 const MockupsPreview = () => {
@@ -104,21 +105,13 @@ const MockupsPreview = () => {
               </div>
             </div>
           </div>
+
           <div className="col-12 col-lg-4 mb-4">
             <div className="ufufu">
-              <Image src={l2} className="others" />
+              <Image src={ad} className="others" />
               <div className="overlay2">
-                <div className="csb">Counter Sign Board</div>
-                <div className="Psd">PSD</div>
-              </div>
-            </div>
-          </div>
-          <div className="col-12 col-lg-4 mb-4">
-            <div className="ufufu">
-              <Image src={l3} className="others" />
-              <div className="overlay2">
-                <div className="csb">Counter Sign Board</div>
-                <div className="Psd">PSD</div>
+                <div className="csb">Vestarplus</div>
+                <div className="Psd">AD</div>
               </div>
             </div>
           </div>
