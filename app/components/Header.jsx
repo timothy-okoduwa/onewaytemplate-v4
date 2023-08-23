@@ -78,23 +78,23 @@ const Header = () => {
                 </div>
                 <div className="flex-winn" ref={scrl} onScroll={scrollCheck}>
                   <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
-                  <div className="odafe">All</div>
+                  <div className="odafe">Mockup</div>
+                  <div className="odafe">Flyer</div>
+                  <div className="odafe">Document</div>
+                  <div className="odafe">Report</div>
+                  <div className="odafe">Letter</div>
+                  <div className="odafe">PSD</div>
+                  <div className="odafe">Figma</div>
+                  <div className="odafe">XD</div>
+                  <div className="odafe">Sketch</div>
+                  <div className="odafe">Blender</div>
+                  <div className="odafe">Canva</div>
+                  <div className="odafe">Sheet</div>
+                  <div className="odafe">Pdf</div>
+                  <div className="odafe">Resume</div>
+                  <div className="odafe">Chart</div>
+                  <div className="odafe">File</div>
+                  <div className="odafe">Pics</div>
                 </div>
                 <div className="man">
                   {!scrolEnd && (

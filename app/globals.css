@@ -703,8 +703,10 @@ th {
   cursor: pointer;
   display: inline-flex;
   align-items: flex-end;
+  flex-wrap: wrap;
   padding-bottom: 40px;
-  padding-left: 30px;
+  padding-left: 20px;
+  padding-right: 9px;
   color: #fff;
   font-family: DM Sans;
   font-size: 23.905px;
@@ -713,7 +715,6 @@ th {
   margin-right: 20px;
   line-height: normal;
   transition: background-color 0.3s ease;
-  white-space: nowrap !important;
   flex-shrink: 0;
 }
 .odafe:hover {
@@ -726,7 +727,8 @@ th {
   display: flex;
   align-items: flex-end;
   padding-bottom: 40px;
-  padding-left: 30px;
+  padding-left: 20px;
+  padding-right: 9px;
   color: #fff;
   font-family: DM Sans;
   font-size: 23.905px;
