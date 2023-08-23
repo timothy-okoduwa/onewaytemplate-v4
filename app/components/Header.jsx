@@ -51,7 +51,7 @@ const Header = () => {
   return (
     <div>
       <div className="headerBackground">
-        <div className="container">
+        <div className="container-fluid">
           <div className="HeaderDiv">
             <div className="init">
               Download <br /> Templates here
