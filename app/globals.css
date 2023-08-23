@@ -889,6 +889,10 @@ th {
   position: relative;
   height: 100%;
 }
+.dodod {
+  padding-left: 80px;
+  padding-right: 80px;
+}
 .gracias {
   position: relative;
   height: 600px;
