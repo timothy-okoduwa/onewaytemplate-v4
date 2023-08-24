@@ -879,14 +879,10 @@ th {
 }
 .neglience {
   border-radius: 26.296px;
-
-  height: 48%;
-  overflow: hidden;
-  cursor: pointer;
-  position: relative;
+  height: 50px;
+  background-color: red !;
 }
 .forover2 {
-  overflow: hidden;
   cursor: pointer;
   position: relative;
   height: 100%;
@@ -911,10 +907,7 @@ th {
 .ufufu:hover .overlay2 {
   opacity: 1;
 }
-.gracias2 {
-  height: 600px;
-  border-radius: 40px;
-}
+
 .ufufu {
   border-radius: 26px;
   background: #d9d9d9;
@@ -925,10 +918,15 @@ th {
   overflow: hidden;
 }
 .others {
-  width: 100%;
-  height: 100%;
+  width: 100% !important;
+  height: 100% !important;
   border-radius: 26px;
   object-fit: cover;
+}
+.wonderrr {
+  width: 100%;
+  object-fit: cover;
+  height: 100px;
 }
 .CTABackground {
   background-color: black;
@@ -963,7 +961,7 @@ th {
     width: 100%;
     height: 350px;
   }
-  .gracias2 {
+  .gracias {
     height: fit-content !important;
     border-radius: 41px;
   }
@@ -973,10 +971,10 @@ th {
     object-fit: cover;
     border-radius: 26px !important;
   }
-  .gracias {
+  /* .gracias {
     height: 350px;
     border-radius: 26px !important;
-  }
+  } */
   .forAll {
     width: 90%;
   }
