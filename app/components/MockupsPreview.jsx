@@ -486,7 +486,7 @@ const MockupsPreview = () => {
               <div style={{ backgroundColor: 'blue', height: '100%' }}>
                 {visibleCardData.slice(1, 3).map((card, index) => (
                   <div
-                    key={index}
+                    key={indexx}
                     className="  col-12 col-lg-12 mb-4 "
                     style={{
                       height: '48%',
